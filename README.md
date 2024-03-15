@@ -4,7 +4,9 @@ Work sample for demonstrating a simple gallery using HTML, CSS and Javascript wi
 ## How to get the application to run:
 Extract the Zip file and open the index file to a browser.
 
+
 ### Filestructure:
+```
 │   README.md
 │
 └───public
@@ -19,3 +21,4 @@ Extract the Zip file and open the index file to a browser.
             4.png
             5.png
             6.png
+```
